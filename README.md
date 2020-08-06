@@ -1,3 +1,7 @@
+This is a simple Trivia App that accesses questions from opentdb API using http requests. The UI and state management use React and are coded in TypeScript.
+
+The app is built based on instructions in the video, https://www.youtube.com/watch?v=F2JCjVSZlG0
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
